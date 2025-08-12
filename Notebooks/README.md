@@ -1,4 +1,4 @@
-## coherence
+# Coherence modeling
 
 ## Objective
 
