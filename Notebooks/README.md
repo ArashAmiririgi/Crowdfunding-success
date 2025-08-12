@@ -1,4 +1,6 @@
+### Coherence modeling
 # Coherence modeling
+## Coherence modeling
 
 ## Objective
 
