@@ -30,5 +30,38 @@ This approach treats the LR classification accuracy as a **proxy metric** for th
 - **Hyperparameter Tuning Plot**  
   ![Hyperparameter](Figures/Doc2vec_hyperparameters.jpg)
   *Plot illustrating the relationship between Doc2Vec hyperparameter settings and Logistic Regression accuracy.*
+- **Category Coherence Distribution**  
+  ![Coherence Distribution](Figures/normalized_coherence_score.jpg)  
+  *Normalized distribution of coherence scores across all categories.*
 
 
+
+
+
+
+## distinctiveness
+
+### Objective
+
+This repository contains the code and results from my master thesis research, which investigates the success factors of crowdfunding campaigns using Natural Language Processing (NLP). Specifically, this project focuses on measuring **category distinctiveness** — how distinct each campaign category is based on the distribution of noun phrases extracted from campaign descriptions.
+
+The key goals are to:
+
+- Extract and clean noun phrases from crowdfunding campaign descriptions.
+- Map these noun phrases to their corresponding categories.
+- Compute pairwise category distinctiveness scores using the Jensen–Shannon distance metric.
+- Generate a final distinctiveness score for each category reflecting how uniquely defined it is.
+
+### Results Summary
+
+- Successfully processed a dataset of crowdfunding campaigns with filtering for quality and category sample size.
+- Extracted meaningful noun phrases to represent campaign content.
+- Built distribution vectors for each category based on phrase frequency.
+- Computed Jensen–Shannon distances between categories, capturing how distinct each category is linguistically.
+- Generated a final category distinctiveness score, available in `category_distinctiveness_matrix_with_scores.csv`.
+
+### Visualizations
+
+- **Category Distinctiveness Distribution**  
+  ![Distinctiveness Distribution](Figures/normalized_distinctiveness_score.jpg)  
+  *Normalized distribution of distinctiveness scores across all categories.* 
