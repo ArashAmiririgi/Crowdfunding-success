@@ -1,8 +1,6 @@
-### Coherence modeling
 # Coherence modeling
-## Coherence modeling
 
-## Objective
+### Objective
 
 The key goal of this project is to **quantify category coherence** in crowdfunding campaign descriptions using text embeddings. Specifically, the workflow:
 
@@ -10,7 +8,7 @@ The key goal of this project is to **quantify category coherence** in crowdfundi
 - Trains a **Doc2Vec** model to generate dense vector representations of campaign descriptions.
 - Uses **cosine similarity** within each category to measure how coherent that category is semantically.
   
-## Role of Logistic Regression Model
+### Role of Logistic Regression Model
 
 The **Logistic Regression classifier** serves as an **evaluation tool** to **tune the hyperparameters** of the Doc2Vec model. Since the ultimate goal is to produce document embeddings that capture meaningful category distinctions:
 
@@ -20,14 +18,14 @@ The **Logistic Regression classifier** serves as an **evaluation tool** to **tun
 
 This approach treats the LR classification accuracy as a **proxy metric** for the quality of the embeddings in representing category coherence.
 
-## Results Summary
+### Results Summary
 
 - The best performing Doc2Vec model achieved an LR classification **accuracy of approximately 74%** on the balanced dataset.
 - Detailed classification reports and confusion matrices are generated to evaluate category-wise performance.
 - Category coherence scores are computed via average pairwise cosine similarity of document vectors within each category.
  
 
-## Visualizations
+### Visualizations
 
 - **Hyperparameter Tuning Plot**  
   ![Hyperparameter](../Figures/Doc2vec_hyperparameters.jpg)
@@ -41,7 +39,7 @@ This approach treats the LR classification accuracy as a **proxy metric** for th
 
 
 
-## distinctiveness
+# Distinctiveness modeling
 
 ### Objective
 
