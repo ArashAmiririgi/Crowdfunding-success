@@ -29,7 +29,6 @@ This approach treats the LR classification accuracy as a **proxy metric** for th
 
 - **Hyperparameter Tuning Plot**  
   ![Hyperparameter](Figures/Doc2vec_hyperparameters.jpg)
-  ![Confusion Matrix](Figures/confusion_matrix.jpg)
   *Plot illustrating the relationship between Doc2Vec hyperparameter settings and Logistic Regression accuracy.*
 
 
