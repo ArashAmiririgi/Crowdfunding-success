@@ -36,7 +36,7 @@ Crowdfunding has emerged as a prominent online microfinancing method. This study
 
 ### Confusion Matrix – Logistic Regression
 *Shows classification performance for the final predictive model.*
-![Confusion Matrix](Figures/confusion_matrix.png)
+![Confusion Matrix](Figures/Confusion matrix.png)
 Figures/confusion_matrix.png
 !(Figures/confusion_matrix.png)
 
