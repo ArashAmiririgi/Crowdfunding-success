@@ -63,5 +63,6 @@ The key goals are to:
 ### Visualizations
 
 - **Category Distinctiveness Distribution**  
-  ![Distinctiveness Distribution](Figures/normalized_distinctiveness_score.jpg)  
+  ![Distinctiveness Distribution](Figures/normalized_distinctiveness_score.png)
+  Figures/normalized_distinctiveness_score.png
   *Normalized distribution of distinctiveness scores across all categories.* 
