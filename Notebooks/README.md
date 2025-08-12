@@ -65,3 +65,25 @@ The key goals are to:
 - **Category Distinctiveness Distribution**  
   ![Distinctiveness Distribution](../Figures/normalized_distinctiveness_score.png)
   *Normalized distribution of distinctiveness scores across all categories.* 
+
+
+# Novelty modeling
+
+### Objective
+
+This project aims to quantify the **novelty** of crowdfunding campaign descriptions by extracting and analyzing noun phrases using natural language processing (NLP) techniques. By computing TF-IDF scores for key phrases, we create features that help predict the likelihood of campaign success based on how novel their descriptions are.
+
+### Results Summary
+
+- Extracted noun phrases from over *X* campaigns across *Y* categories with sufficient samples.
+- Cleaned and merged noun phrases into tokenized forms optimized for TF-IDF vectorization.
+- Computed TF-IDF matrices and derived features such as the mean of the top 10 TF-IDF scores per description.
+- Normalized these features by description length to control for verbosity.
+- These novelty features can be integrated into machine learning models to predict campaign success.
+
+### Visualizations
+
+- **TF-IDF Distribution Plot**  
+  ![TF-IDF Distribution](../Figures/normalized_distinctiveness_score.png)  
+  *Normalized distribution of novelty scores across all campaigns.*
+
