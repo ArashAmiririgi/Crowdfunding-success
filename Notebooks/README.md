@@ -31,7 +31,7 @@ This approach treats the LR classification accuracy as a **proxy metric** for th
   ![Hyperparameter](Figures/Doc2vec_hyperparameters.jpg)
   *Plot illustrating the relationship between Doc2Vec hyperparameter settings and Logistic Regression accuracy.*
 - **Category Coherence Distribution**  
-  ![Coherence Distribution](Figures/normalized_coherence_score.jpg)  
+  ![Coherence Distribution](Figures/normalized_coherence_score.png)  
   *Normalized distribution of coherence scores across all categories.*
 
 
@@ -64,5 +64,4 @@ The key goals are to:
 
 - **Category Distinctiveness Distribution**  
   ![Distinctiveness Distribution](Figures/normalized_distinctiveness_score.png)
-  Figures/normalized_distinctiveness_score.png
   *Normalized distribution of distinctiveness scores across all categories.* 
