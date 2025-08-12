@@ -84,6 +84,6 @@ This project aims to quantify the **novelty** of crowdfunding campaign descripti
 ### Visualizations
 
 - **TF-IDF Distribution Plot**  
-  ![TF-IDF Distribution](../Figures/normalized_distinctiveness_score.png)  
+  ![TF-IDF Distribution](../Figures/normalized_novelty_score.png)  
   *Normalized distribution of novelty scores across all campaigns.*
 
