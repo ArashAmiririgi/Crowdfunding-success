@@ -36,22 +36,18 @@ Crowdfunding has emerged as a prominent online microfinancing method. This study
 
 ### Confusion Matrix – Logistic Regression
 *Shows classification performance for the final predictive model.*
-![Confusion Matrix](Figures/Confusion%20matrix.jpg)
-Figures/confusion_matrix.png
-!(Figures/confusion_matrix.png)
+![Confusion Matrix](Figures/Confusion_matrix.jpg)
+
 
 
 ### Partial Dependence Plots (PDPs)
 *Illustrates the U-shaped relationship for category distinctiveness & coherence,  
 and the inverted U-shaped relationship for novelty.*
-![PDP Plots](results/pdp_interactions.png)
+![PDP Plots](Figures/probability_of_success_PDP.jpg)
+![PDP Plots](Figures/interaction_plots_PDP.jpg)
 
 ---
 
-### Model Performance Comparison
-*Compares accuracy and F1-score across Logistic Regression, Random Forest, and XGBoost.*
-![Model Comparison](results/model_comparison.png)
 
----
 
 ## 🗂 Repository Structure
