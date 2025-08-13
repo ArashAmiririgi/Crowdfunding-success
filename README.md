@@ -39,6 +39,13 @@ Crowdfunding has emerged as a prominent online microfinancing method. This study
 ![Confusion Matrix](Figures/confusion_matrix.jpg)
 
 
+<p align="center">
+  <img src="Figures/confusion_matrix.jpg" 
+       alt="Example image" 
+       width="300">
+</p>
+
+
 
 ### Partial Dependence Plots (PDPs)
 *Illustrates the U-shaped relationship for category distinctiveness & coherence,  
