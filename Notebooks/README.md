@@ -28,10 +28,21 @@ This approach treats the LR classification accuracy as a **proxy metric** for th
 ### Visualizations
 
 - **Hyperparameter Tuning Plot**  
-  ![Hyperparameter](../Figures/Doc2vec_hyperparameters.jpg)
+  <p align="center">
+  <img src="../Figures/Doc2vec_hyperparameters.jpg" 
+       alt="Hyperparameters" 
+       width="600">
+  </p
   *Plot illustrating the relationship between Doc2Vec hyperparameter settings and Logistic Regression accuracy.*
-- **Category Coherence Distribution**  
-  ![Coherence Distribution](../Figures/normalized_coherence_score.png)  
+
+
+  
+- **Category Coherence Distribution**
+  <p align="center">
+  <img src="../Figures/normalized_coherence_score.png" 
+       alt="Coherence Distribution" 
+       width="600">
+  </p
   *Normalized distribution of coherence scores across all categories.*
 
 
@@ -62,8 +73,12 @@ The key goals are to:
 
 ### Visualizations
 
-- **Category Distinctiveness Distribution**  
-  ![Distinctiveness Distribution](../Figures/normalized_distinctiveness_score.png)
+- **Category Distinctiveness Distribution**
+  <p align="center">
+  <img src="../Figures/normalized_distinctiveness_score.png" 
+       alt="Distinctiveness Distribution" 
+       width="600">
+  </p  
   *Normalized distribution of distinctiveness scores across all categories.* 
 
 
@@ -83,7 +98,11 @@ This project aims to quantify the **novelty** of crowdfunding campaign descripti
 
 ### Visualizations
 
-- **TF-IDF Distribution Plot**  
-  ![TF-IDF Distribution](../Figures/normalized_novelty_score.png)  
+- **Novelty Distribution Plot**
+  <p align="center">
+  <img src="../Figures/../Figures/normalized_novelty_score.png" 
+       alt="Novelty Distribution" 
+       width="600">
+  </p
   *Normalized distribution of novelty scores across all campaigns.*
 
