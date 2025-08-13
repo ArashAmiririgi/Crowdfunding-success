@@ -8,7 +8,7 @@ The analysis focuses on three linguistic and categorical factors:
 - **Category Coherence**
 - **Novelty of Campaign Language**
 
-A synthetic dataset is included so that the code can run without access to the original confidential dataset.
+A small synthetic dataset is included dataset structure.
 
 ---
 
