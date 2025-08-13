@@ -2,7 +2,7 @@
 
 ### Objective
 
-The key goal of this project is to **quantify category coherence** in crowdfunding campaign descriptions using text embeddings. Specifically, the workflow:
+The key goal of this pipeline is to **quantify category coherence** in crowdfunding campaign descriptions using text embeddings. Specifically, the workflow:
 
 - Preprocesses campaign text data by tokenization, stopword removal, and lemmatization.
 - Trains a **Doc2Vec** model to generate dense vector representations of campaign descriptions.
@@ -54,9 +54,7 @@ This approach treats the LR classification accuracy as a **proxy metric** for th
 
 ### Objective
 
-This repository contains the code and results from my master thesis research, which investigates the success factors of crowdfunding campaigns using Natural Language Processing (NLP). Specifically, this project focuses on measuring **category distinctiveness** — how distinct each campaign category is based on the distribution of noun phrases extracted from campaign descriptions.
-
-The key goals are to:
+The key goal of this pipeline is to **quantify category distinctiveness** in crowdfunding campaign descriptions using noun phrase distribution. Specifically, the workflow:
 
 - Extract and clean noun phrases from crowdfunding campaign descriptions.
 - Map these noun phrases to their corresponding categories.
@@ -86,7 +84,7 @@ The key goals are to:
 
 ### Objective
 
-This project aims to quantify the **novelty** of crowdfunding campaign descriptions by extracting and analyzing noun phrases using natural language processing (NLP) techniques. By computing TF-IDF scores for key phrases, we create features that help predict the likelihood of campaign success based on how novel their descriptions are.
+The key goal of this pipeline is to **quantify novelty** in crowdfunding campaign descriptions using noun phrase extraction and TF-IDF vectorizer. Specifically, the workflow:
 
 ### Results Summary
 
