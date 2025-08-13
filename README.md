@@ -8,8 +8,7 @@ The analysis focuses on three linguistic and categorical factors:
 - **Category Coherence**
 - **Novelty of Campaign Language**
 
-A small synthetic dataset is included dataset structure.
-
+A small synthetic dataset is provided to illustrate the dataset structure.
 ---
 
 ## 📄 Abstract
