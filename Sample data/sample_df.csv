@@ -1,0 +1,11 @@
+category,parent_category,launch_date,failure_date,success_date,success,funding_goal,description,token_counts
+Documentary,Film & Video,01.01.2024,01.02.2024,,0,10000,"A deep dive into the making of independent documentaries, showcasing untold stories from around the world. Featuring interviews, behind-the-scenes footage, and personal narratives.",25
+Action,Film & Video,01.02.2024,,01.03.2024,1,15000,"An action-packed adventure film set in a futuristic city. High-speed chases, daring stunts, and a gripping storyline will keep audiences on the edge of their seats.",28
+World Music,Music,01.03.2024,01.04.2024,,0,12000,An album project exploring traditional music styles from various cultures. The goal is to preserve and share authentic sounds through live performances and recordings.,24
+Hip-Hop,Music,01.04.2024,01.05.2024,,0,8000,A groundbreaking hip-hop album blending rap with jazz and electronic beats. The project aims to unite different music communities and push genre boundaries.,24
+Musical,Theater,01.06.2024,01.07.2024,,0,20000,"A theatrical musical bringing a beloved story to life on stage. The production features original songs, elaborate costumes, and captivating performances.",21
+Comedy,Theater,01.07.2024,,01.08.2024,1,13000,A comedy theater show delivering hilarious sketches and improv. The performance will leave audiences laughing and wanting more.,18
+Conceptual Art,Art,01.08.2024,01.09.2024,,0,5000,An art installation challenging conventional perceptions through abstract concepts. Viewers are encouraged to engage and interpret the work in their own way.,22
+Public Art,Art,01.09.2024,,01.10.2024,1,7000,A public art project designed to transform urban spaces into interactive experiences. Local communities will be involved in both creation and execution.,22
+Video Games,Games,01.10.2024,,01.11.2024,1,25000,"A groundbreaking video game with immersive worlds, innovative mechanics, and rich storytelling. Players can explore vast landscapes and shape the story through choices.",23
+Live Games,Games,01.11.2024,01.12.2024,,0,18000,A live-action game combining physical challenges and interactive storytelling. Teams compete in real-time to solve puzzles and complete missions.,21
