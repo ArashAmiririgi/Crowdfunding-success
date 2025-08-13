@@ -49,9 +49,3 @@ Crowdfunding has emerged as a prominent online microfinancing method. This study
 and the inverted U-shaped relationship for novelty.*
 ![PDP Plots](Figures/probability_of_success_PDP.jpg)
 ![PDP Plots](Figures/interaction_plots_PDP.jpg)
-
----
-
-
-
-## 🗂 Repository Structure
