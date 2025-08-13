@@ -2,13 +2,13 @@
 
 This project applies **Natural Language Processing (NLP)** and **machine learning** to predict the success of crowdfunding campaigns.  
 It is based on my master's thesis, which analyzed **195,703 Kickstarter campaigns** across 86 categories over ten years.
+A small synthetic dataset is provided to illustrate the dataset structure.
 
 The analysis focuses on three linguistic and categorical factors:
 - **Category Distinctiveness**
 - **Category Coherence**
 - **Novelty of Campaign Language**
-
-A small synthetic dataset is provided to illustrate the dataset structure.
+ 
 ---
 
 ## 📄 Abstract
