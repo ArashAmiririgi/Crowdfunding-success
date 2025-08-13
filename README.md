@@ -42,7 +42,7 @@ Crowdfunding has emerged as a prominent online microfinancing method. This study
 <p align="center">
   <img src="Figures/confusion_matrix.jpg" 
        alt="Example image" 
-       width="300">
+       width="600">
 </p>
 
 
